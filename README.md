@@ -54,8 +54,7 @@ vu_covid_trend – Date-based analysis for trend visualization
 
 vu_location – Location-based summaries for mapping insights
 
-📎 Screenshot of transformation and view creation scripts goes here:
-(Paste below)
+![Image](https://github.com/user-attachments/assets/4bf2d6e4-e2e5-40b0-93b8-74e331d6a513)
 
 ### 3️⃣ Data Visualization — Power BI Dashboard
 
