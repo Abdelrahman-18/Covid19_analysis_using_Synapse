@@ -28,8 +28,7 @@ The project began with designing a clean and optimized schema in Azure Synapse A
 A new table named COVID_INFO was created with appropriate data types and indexing for performance.
 To improve query speed, a CLUSTERED COLUMNSTORE INDEX was applied—perfect for analytical workloads.
 
-📎 Screenshot of SQL table creation and ingestion scripts goes here:
-(Paste below)
+![Image](https://github.com/user-attachments/assets/0c89a5bc-9f4e-457d-96cf-0f01cc50ee2f)
 
 ### 2️⃣ Data Cleaning & Transformation
 
