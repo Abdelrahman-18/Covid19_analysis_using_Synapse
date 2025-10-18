@@ -69,3 +69,6 @@ The resulting dashboard provides an intuitive and interactive way to explore glo
 💡 Summary cards for confirmed, recovered, deaths, and active cases
 
 🗺️ Geographical visualization to highlight country-level impact
+
+
+![Image](https://github.com/user-attachments/assets/f5edb3da-7924-48e5-860c-421dfe90a720)
